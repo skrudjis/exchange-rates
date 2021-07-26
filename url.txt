@@ -1,1 +1,1 @@
-https://github.io/skrudjis/exchange-rates.git
+https://skrudjis.github.io/exchange-rates.github.io/
